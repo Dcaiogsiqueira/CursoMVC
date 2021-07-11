@@ -18,13 +18,13 @@ namespace CursoMVC.Controllers
             _context = context;
         }
 
-        // GET: Categorias
+        // GET: Categorias (pega todas as categorias e joga na tela)
         public async Task<IActionResult> Index()
         {
             return View(await _context.Categorias.ToListAsync());
         }
 
-        // GET: Categorias/Details/5
+        // GET: Categorias/Details/5 (procura se foi passado o id, caso ositivo ele busca no banco de dados)
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)

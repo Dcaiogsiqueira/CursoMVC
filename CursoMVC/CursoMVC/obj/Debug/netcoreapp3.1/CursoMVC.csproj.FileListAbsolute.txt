@@ -151,3 +151,8 @@ C:\Users\Caio\Documents\MeusProjetos\CursoMVC\CursoMVC\CursoMVC\bin\Debug\netcor
 C:\Users\Caio\Documents\MeusProjetos\CursoMVC\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
 C:\Users\Caio\Documents\MeusProjetos\CursoMVC\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\System.Reflection.Metadata.dll
 C:\Users\Caio\Documents\MeusProjetos\CursoMVC\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Caio\Documents\MeusProjetos\CursoMVC\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Create.cshtml.g.cs
+C:\Users\Caio\Documents\MeusProjetos\CursoMVC\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Delete.cshtml.g.cs
+C:\Users\Caio\Documents\MeusProjetos\CursoMVC\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Details.cshtml.g.cs
+C:\Users\Caio\Documents\MeusProjetos\CursoMVC\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Edit.cshtml.g.cs
+C:\Users\Caio\Documents\MeusProjetos\CursoMVC\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Index.cshtml.g.cs
